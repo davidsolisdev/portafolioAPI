@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/davidsolisdev/portafolioApi/config"
+	"github.com/davidsolisdev/portafolioAPI/config"
 
 	mail "github.com/xhit/go-simple-mail/v2"
 )

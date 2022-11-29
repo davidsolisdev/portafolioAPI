@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/davidsolisdev/portafolioApi/utils"
+	"github.com/davidsolisdev/portafolioAPI/utils"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 	"github.com/gofiber/fiber/v2/middleware/recover"
